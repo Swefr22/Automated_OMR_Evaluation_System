@@ -1,0 +1,10 @@
+# Streamlit app framework
+streamlit
+
+# Data handling
+pandas
+numpy
+openpyxl
+
+# Computer vision for OMR processing
+opencv-python
